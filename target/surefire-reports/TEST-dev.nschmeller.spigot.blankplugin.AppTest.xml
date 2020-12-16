@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dev.nschmeller.spigot.blankplugin.AppTest" time="0.113" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dev.nschmeller.spigot.blankplugin.AppTest" time="0.052" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/ec2-user/BlankPlugin/target/surefire/surefirebooter4884695379917484585.jar /home/ec2-user/BlankPlugin/target/surefire 2020-12-16T03-41-29_580-jvmRun1 surefire2869159786775573254tmp surefire_04804225365349239559tmp"/>
+    <property name="sun.java.command" value="/home/ec2-user/BlankPlugin/target/surefire/surefirebooter6356494956297440302.jar /home/ec2-user/BlankPlugin/target/surefire 2020-12-16T04-26-32_259-jvmRun1 surefire6613623029811304534tmp surefire_0274560424307085496tmp"/>
     <property name="surefire.test.class.path" value="/home/ec2-user/BlankPlugin/target/test-classes:/home/ec2-user/BlankPlugin/target/classes:/home/ec2-user/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/ec2-user/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/ec2-user/.m2/repository/org/spigotmc/spigot-api/1.16.4-R0.1-SNAPSHOT/spigot-api-1.16.4-R0.1-SNAPSHOT.jar:/home/ec2-user/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/ec2-user/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar:/home/ec2-user/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/ec2-user/.m2/repository/net/md-5/bungeecord-chat/1.16-R0.3/bungeecord-chat-1.16-R0.3.jar:/home/ec2-user/.m2/repository/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/ec2-user"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/ec2-user/BlankPlugin/target/surefire/surefirebooter4884695379917484585.jar"/>
+    <property name="surefire.real.class.path" value="/home/ec2-user/BlankPlugin/target/surefire/surefirebooter6356494956297440302.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.275.b01-1.el8_3.x86_64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_275-b01"/>
